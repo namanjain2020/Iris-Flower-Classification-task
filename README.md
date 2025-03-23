@@ -44,11 +44,11 @@ pip install numpy pandas matplotlib seaborn scikit-learn torch
    git clone https://github.com/namanjain2020/Iris-Flower-Classification-task.git
    cd iris-flower-classification
 
-2. Run the notebook:
+3. Run the notebook:
    jupyter notebook iris_flower.ipynb
   
 
-3. Follow the notebook for step-by-step execution:
+4. Follow the notebook for step-by-step execution:
    - Data exploration
    - Visualization
    - Model training
